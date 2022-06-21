@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class Cykle extends AppCompatActivity {
-
+////
     @SuppressLint("SimpleDateFormat")
     String timeStamp = new SimpleDateFormat("yyyy-MM-dd_HH:mm:ss").format(Calendar.getInstance().getTime());
 
