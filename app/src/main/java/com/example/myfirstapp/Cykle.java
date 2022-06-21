@@ -15,7 +15,7 @@ public class Cykle extends AppCompatActivity {
 
     @SuppressLint("SimpleDateFormat")
     String timeStamp = new SimpleDateFormat("yyyy-MM-dd_HH:mm:ss").format(Calendar.getInstance().getTime());
-
+//jazda
     public static String stateOnCreateCycle;
     public static String stateOnResumeCycle;
     public static String stateOnPauseCycle;
